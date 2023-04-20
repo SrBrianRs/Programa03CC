@@ -6,7 +6,7 @@ package org.uv.programa03cc;
 
 /**
  *
- * @author Angel
+ * @author SrBri
  */
 public class MensajeSaludoI implements IMensaje{
 
